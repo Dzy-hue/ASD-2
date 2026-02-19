@@ -15,5 +15,8 @@ public class MahasiswaMain08 {
         mhs2.updateIpk(3.30);
         mhs2.tampilkanInformasi();
 
+        Mahasiswa08 mhsAbrar = new Mahasiswa08("Abrar Rayhan Muhammad", "254107020217", "TI 1D", 3.60);
+        mhsAbrar.updateIpk(3.70);
+        mhsAbrar.tampilkanInformasi();
     }
 }
